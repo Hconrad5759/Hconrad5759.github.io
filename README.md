@@ -16,7 +16,7 @@
                 <p>Welcome to my portfolio. I'm a passionate Operations Systems Analyst that specializes in SQL and WMS innovations. I provide issue resolution on a daily basis and often work on long projects to innovate and efficiently execute operational processes.</p>
                 <div class="button-container">
                     <a href="#projects" class="cta-button">Explore My Work</a>
-                    <a href="work-history.html" class="cta-button">My Work History</a>
+                    <a href="Work-History" class="cta-button">My Work History</a>
                 </div>
             </div>
         </div>

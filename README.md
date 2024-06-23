@@ -16,8 +16,6 @@
                 <div class="button-container">
                 </div> <a href="#projects" class="cta-button">Explore My Work</a>
                 </div> <a href="Work-History" class="cta-button">My Work History</a>
-                </div>
-            </div>
         </div>
     </header>
 
